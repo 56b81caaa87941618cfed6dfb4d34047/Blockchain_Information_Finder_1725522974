@@ -9,6 +9,15 @@
     },
     {
         "role": "user",
+        "content": "add a button that says hey there",
+        "message_id": "guest05092024081824",
+        "timestamp": "05092024081825",
+        "component_file_name": "simple_cta_component_1725522979",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "add a button that says hello world",
         "message_id": "guest05092024081546",
         "timestamp": "05092024081547",
