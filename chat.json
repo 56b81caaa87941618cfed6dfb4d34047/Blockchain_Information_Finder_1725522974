@@ -9,6 +9,15 @@
     },
     {
         "role": "chat_acknowledge",
+        "content": "Sure, I'm implementing a button that says 'Hello World'.",
+        "message_id": "guest05092024081503",
+        "timestamp": "05092024081505",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
         "content": "Sure, I will add a button that says \"Hello World.\"",
         "message_id": "guest05092024081418",
         "timestamp": "05092024081420",
